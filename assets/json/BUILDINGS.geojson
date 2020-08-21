@@ -1,0 +1,250 @@
+{
+  "type": "FeatureCollection",
+  "name": "BUILDINGS",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Asset Name": "Breakwater Battery Military Museum",
+        "Address": "Gate B103 Penrhyn Rd, Port Botany NSW 2036",
+        "Phone": "(02) 4275 2888"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [150.9128989356972, -34.475607650357944]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Asset Name": "Maritime Centre (NSW Ports Office)",
+        "Address": "Level 3/91 Foreshore Rd, Port Kembla NSW 2505",
+        "Phone": "1300 922 524"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [150.912943853185936, -34.475311421779345]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Asset Name": "Training & Conference Centre",
+        "Address": "Foreshore Rd, Port Kembla NSW 2505",
+        "Phone": "1300 922 524"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [150.9114336273974, -34.475410576184522]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Asset Name": "Brotherson House (NSW Ports Office)",
+        "Address": "Gate B103 Penrhyn Rd, Port Botany NSW 2036",
+        "Phone": "1300 922 524"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.220309744560012, -33.967403612392147]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Asset Name": "BLB1 Administration Building",
+        "Address": "Fishburn Rd & Charlotte Rd, Port Botany NSW 2036",
+        "Phone": "(02) 9316 1137"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.212708707085255, -33.974256153616466]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Asset Name": "BLB2 Amenities Building",
+        "Address": "Fishburn Rd & Charlotte Rd, Port Botany NSW 2036",
+        "Phone": "(02) 9316 1139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.21174397921678, -33.9770055412247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Asset Name": "Cooks River Administrative Building",
+        "Address": null,
+        "Phone": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.174982008688488, -33.916778042880622]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Asset Name": "Enfield ILC Site Office (NSW Ports Office)",
+        "Address": "Delec Lane, Strathfield South NSW 2136",
+        "Phone": "1300 922 524"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.071950268030122, -33.893591671528831]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Asset Name": "Precinct D Warehouse",
+        "Address": "Mainline Road, Strathfield South, NSW",
+        "Phone": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.073025293260798, -33.897827127501046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Asset Name": "Tarpaulin Shed (Heritage)",
+        "Address": "Mainline Road, Strathfield South, NSW",
+        "Phone": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.07797919318665, -33.905594897489173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Asset Name": "Warehouse C1",
+        "Address": "Mainline Road, Strathfield South, NSW",
+        "Phone": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.074561471376029, -33.898642378920641]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Asset Name": "Warehouse C2",
+        "Address": "Mainline Road, Strathfield South, NSW",
+        "Phone": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.074122278152657, -33.89766142503985]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Asset Name": "Warehouse F1",
+        "Address": "Mainline Road, Strathfield South, NSW",
+        "Phone": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.071742649415341, -33.895063168341643]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Asset Name": "Warehouse F2",
+        "Address": "Mainline Road, Strathfield South, NSW",
+        "Phone": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.071431221493356, -33.894572672225095]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Asset Name": "Warehouse F3",
+        "Address": "Mainline Road, Strathfield South, NSW",
+        "Phone": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.070856277637347, -33.893657955715113]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Asset Name": "Warehouse H1",
+        "Address": "Mainline Road, Strathfield South, NSW",
+        "Phone": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.070744482998691, -33.8920538639453]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Asset Name": "Warehouse H2",
+        "Address": "Mainline Road, Strathfield South, NSW",
+        "Phone": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.070464996402023, -33.891550093362724]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Asset Name": "Warehouse H3",
+        "Address": "Mainline Road, Strathfield South, NSW",
+        "Phone": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.069945949865343, -33.890383455326571]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Asset Name": "Warehouse E1",
+        "Address": "Mainline Road, Strathfield South, NSW",
+        "Phone": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.073898688875346, -33.896514755184967]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Asset Name": "Warehouse E2",
+        "Address": "Mainline Road, Strathfield South, NSW",
+        "Phone": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.073243891706028, -33.895175849483444]
+      }
+    }
+  ]
+}

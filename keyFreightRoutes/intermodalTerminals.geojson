@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "name": "INTERMODAL_TERMINALS",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chullora Intermodal Terminal"
+      },
+      "geometry": { "type": "Point", "coordinates": [151.044222, -33.888139] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Yennora Intermodal Terminal"
+      },
+      "geometry": { "type": "Point", "coordinates": [150.966667, -33.859722] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Macarthur Intermodal Shipping Terminal"
+      },
+      "geometry": { "type": "Point", "coordinates": [150.841694, -34.035167] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Minto Intermodal Terminal"
+      },
+      "geometry": { "type": "Point", "coordinates": [150.84073, -34.035496] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Moorebank Intermodal Terminal"
+      },
+      "geometry": { "type": "Point", "coordinates": [150.917501, -33.955222] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Future St Mary's Intermodal Terminal"
+      },
+      "geometry": { "type": "Point", "coordinates": [150.769855, -33.757677] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Future Western Sydney Intermodal Terminal"
+      },
+      "geometry": { "type": "Point", "coordinates": [150.78199, -33.828997] }
+    }
+  ]
+}

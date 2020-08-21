@@ -1,0 +1,379 @@
+{
+  "type": "FeatureCollection",
+  "name": "PB_BERTH",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "TextString": "Brotherson Dock 10",
+        "Angle": 22.194156646700002,
+        "Berth Manager": "DP World Sydney",
+        "Commodities": "Containers",
+        "Rail Access": "On Dock Rail",
+        "Channel Maintained Depth": "15.6mCD",
+        "Dynamic Underkeel Clearance System in Use": "Yes",
+        "Static Vessel Draft in Channel @ LAT": "14.2m",
+        "UKC Requirements at Berth": "0.5m",
+        "Declared Depth at Berth": "Refer to PANSW promulgated depths for current declared depths",
+        "Indicative Vessel Draft at Berth": "13.7m-14.0m",
+        "Max Vessel Length (LoA)": null,
+        "Berth Box Length": "936m",
+        "Berth Box Width": "50m",
+        "Wharf Level": "+3.65mCD",
+        "Air Draft Limit": "+61.9mCD",
+        "Mooring Equipment": "60t Bollards",
+        "Tidal Range (LAT - HAT)": "2m",
+        "Unloading Equipment": "8 No. STS Cranes",
+        "Operating Hours": "24/7",
+        "Additional Information": "1. Potable water available.",
+        "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.219227252522046, -33.969759955583392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TextString": "Brotherson Dock 12",
+        "Angle": 22.194156646700002,
+        "Berth Manager": "DP World Sydney",
+        "Commodities": "Containers",
+        "Rail Access": "On Dock Rail",
+        "Channel Maintained Depth": "15.6mCD",
+        "Dynamic Underkeel Clearance System in Use": "Yes",
+        "Static Vessel Draft in Channel @ LAT": "14.2m",
+        "UKC Requirements at Berth": "0.5m",
+        "Declared Depth at Berth": "Refer to PANSW promulgated depths for current declared depths",
+        "Indicative Vessel Draft at Berth": "13.7m-14.0m",
+        "Max Vessel Length (LoA)": null,
+        "Berth Box Length": "936m",
+        "Berth Box Width": "50m",
+        "Wharf Level": "+3.65mCD",
+        "Air Draft Limit": "+61.9mCD",
+        "Mooring Equipment": "60t Bollards",
+        "Tidal Range (LAT - HAT)": "2m",
+        "Unloading Equipment": "8 No. STS Cranes",
+        "Operating Hours": "24/7",
+        "Additional Information": "1. Potable water available.",
+        "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.212491351451945, -33.971949246196615]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TextString": "Brotherson Dock 11",
+        "Angle": 22.194156646700002,
+        "Berth Manager": "DP World Sydney",
+        "Commodities": "Containers",
+        "Rail Access": "On Dock Rail",
+        "Channel Maintained Depth": "15.6mCD",
+        "Dynamic Underkeel Clearance System in Use": "Yes",
+        "Static Vessel Draft in Channel @ LAT": "14.2m",
+        "UKC Requirements at Berth": "0.5m",
+        "Declared Depth at Berth": "Refer to PANSW promulgated depths for current declared depths",
+        "Indicative Vessel Draft at Berth": "13.7m-14.0m",
+        "Max Vessel Length (LoA)": null,
+        "Berth Box Length": "936m",
+        "Berth Box Width": "50m",
+        "Wharf Level": "+3.65mCD",
+        "Air Draft Limit": "+61.9mCD",
+        "Mooring Equipment": "60t Bollards",
+        "Tidal Range (LAT - HAT)": "2m",
+        "Unloading Equipment": "8 No. STS Cranes",
+        "Operating Hours": "24/7",
+        "Additional Information": "1. Potable water available.",
+        "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.215456426741952, -33.970974849340926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TextString": "Brotherson Dock 9",
+        "Angle": 17.6372509003,
+        "Berth Manager": "Patrick Terminals",
+        "Commodities": "Containers",
+        "Rail Access": "On Dock Rail",
+        "Channel Maintained Depth": "15.6mCD",
+        "Dynamic Underkeel Clearance System in Use": "Yes",
+        "Static Vessel Draft in Channel @ LAT": "14.2m",
+        "UKC Requirements at Berth": "0.5m",
+        "Declared Depth at Berth": "Refer to PANSW promulgated depths for current declared depths",
+        "Indicative Vessel Draft at Berth": "13.9m-14.0m",
+        "Max Vessel Length (LoA)": null,
+        "Berth Box Length": "1000m",
+        "Berth Box Width": "50m",
+        "Wharf Level": "+3.65mCD",
+        "Air Draft Limit": "+61.9mCD",
+        "Mooring Equipment": "60t Bollards",
+        "Tidal Range (LAT - HAT)": "2m",
+        "Unloading Equipment": "5 No. STS Cranes",
+        "Operating Hours": "24/7",
+        "Additional Information": "1. Potable water available.",
+        "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.216271102907314, -33.967558681220012]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TextString": "Brotherson Dock 7",
+        "Angle": 17.6372509003,
+        "Berth Manager": "Patrick Terminals",
+        "Commodities": "Containers",
+        "Rail Access": "On Dock Rail",
+        "Channel Maintained Depth": "15.6mCD",
+        "Dynamic Underkeel Clearance System in Use": "Yes",
+        "Static Vessel Draft in Channel @ LAT": "14.2m",
+        "UKC Requirements at Berth": "0.5m",
+        "Declared Depth at Berth": "Refer to PANSW promulgated depths for current declared depths",
+        "Indicative Vessel Draft at Berth": "13.9m-14.0m",
+        "Max Vessel Length (LoA)": null,
+        "Berth Box Length": "1000m",
+        "Berth Box Width": "50m",
+        "Wharf Level": "+3.65mCD",
+        "Air Draft Limit": "+61.9mCD",
+        "Mooring Equipment": "60t Bollards",
+        "Tidal Range (LAT - HAT)": "2m",
+        "Unloading Equipment": "5 No. STS Cranes",
+        "Operating Hours": "24/7",
+        "Additional Information": "1. Potable water available.",
+        "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.209515564974481, -33.969215998254931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TextString": "Brotherson Dock 8",
+        "Angle": 17.6372509003,
+        "Berth Manager": "Patrick Terminals",
+        "Commodities": "Containers",
+        "Rail Access": "On Dock Rail",
+        "Channel Maintained Depth": "15.6mCD",
+        "Dynamic Underkeel Clearance System in Use": "Yes",
+        "Static Vessel Draft in Channel @ LAT": "14.2m",
+        "UKC Requirements at Berth": "0.5m",
+        "Declared Depth at Berth": "Refer to PANSW promulgated depths for current declared depths",
+        "Indicative Vessel Draft at Berth": "13.9m-14.0m",
+        "Max Vessel Length (LoA)": null,
+        "Berth Box Length": "1000m",
+        "Berth Box Width": "50m",
+        "Wharf Level": "+3.65mCD",
+        "Air Draft Limit": "+61.9mCD",
+        "Mooring Equipment": "60t Bollards",
+        "Tidal Range (LAT - HAT)": "2m",
+        "Unloading Equipment": "5 No. STS Cranes",
+        "Operating Hours": "24/7",
+        "Additional Information": "1. Potable water available.",
+        "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.21284485240389, -33.968381436756587]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TextString": "Bulk Liquids Berth 1",
+        "Angle": 79.379150390600003,
+        "Berth Manager": "NSW Ports",
+        "Commodities": "Bulk liquids",
+        "Rail Access": "No",
+        "Channel Maintained Depth": "15.6mCD",
+        "Dynamic Underkeel Clearance System in Use": "Yes",
+        "Static Vessel Draft in Channel @ LAT": "14.2m",
+        "UKC Requirements at Berth": "1.0m",
+        "Declared Depth at Berth": "Refer to PANSW promulgated depths for current declared depths",
+        "Indicative Vessel Draft at Berth": "15.3m",
+        "Max Vessel Length (LoA)": "230m (244m on application)",
+        "Berth Box Length": "n/a",
+        "Berth Box Width": "55m",
+        "Wharf Level": "+3.4mCD",
+        "Air Draft Limit": "+61.9mCD",
+        "Max Vessel Deadweight": "90,000t (105,000t on application)",
+        "Max Vessel Displacement & Berthing Velocity": "120,000t @ 0.15m/s",
+        "Mooring Equipment": "60t Bollards, 60t QRHs, 100t Bollards",
+        "Tidal Range (LAT - HAT)": "2m",
+        "Unloading Equipment": "5 No. Loading Arms, 9 No. Dock Lines",
+        "Operating Hours": "24/7",
+        "Additional Information": "1. Gangway can be prepared prior to berthing. 2. Potable water available. 3. Vessel bunkering by pipeline.",
+        "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.211070313876121, -33.974532538770184]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TextString": "Brotherson Dock 6",
+        "Angle": 17.6372509003,
+        "Berth Manager": "Patrick Terminals",
+        "Commodities": "Containers",
+        "Rail Access": "On Dock Rail",
+        "Channel Maintained Depth": "15.6mCD",
+        "Dynamic Underkeel Clearance System in Use": "Yes",
+        "Static Vessel Draft in Channel @ LAT": "14.2m",
+        "UKC Requirements at Berth": "0.5m",
+        "Declared Depth at Berth": "Refer to PANSW promulgated depths for current declared depths",
+        "Indicative Vessel Draft at Berth": "15.7m",
+        "Max Vessel Length (LoA)": null,
+        "Berth Box Length": "400m",
+        "Berth Box Width": "50m",
+        "Wharf Level": "+4.0mCD",
+        "Air Draft Limit": "+61.9mCD",
+        "Mooring Equipment": "120t Bollards",
+        "Tidal Range (LAT - HAT)": "2m",
+        "Unloading Equipment": "3 No. STS Cranes",
+        "Operating Hours": "24/7",
+        "Additional Information": "1. Potable water available.",
+        "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.205927281707801, -33.970120111596167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "TextString": "Brotherson Dock 5", "Angle": 17.6372509003 },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.202866897635175, -33.970862518797382]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "TextString": "Hayes Dock 4", "Angle": 283.21591186500001 },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.201839956823193, -33.96971784230675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "TextString": "Hayes Dock 3", "Angle": 283.21591186500001 },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.201149580445048, -33.966973478226429]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TextString": "Hayes Dock 2",
+        "Angle": 283.21591186500001,
+        "Berth Manager": "Hutchinson Ports Sydney",
+        "Commodities": "Containers",
+        "Rail Access": "On Dock Rail",
+        "Channel Maintained Depth": "15.6mCD",
+        "Dynamic Underkeel Clearance System in Use": "Yes",
+        "Static Vessel Draft in Channel @ LAT": "14.2m",
+        "UKC Requirements at Berth": "0.5m",
+        "Declared Depth at Berth": "Refer to PANSW promulgated depths for current declared depths.",
+        "Indicative Vessel Draft at Berth": "14.8m-15.1m",
+        "Max Vessel Length (LoA)": null,
+        "Berth Box Length": "650m",
+        "Berth Box Width": "50m",
+        "Wharf Level": "+4.0mCD",
+        "Air Draft Limit": "+51.9mCD",
+        "Mooring Equipment": "120t Bollards",
+        "Tidal Range (LAT - HAT)": "2m",
+        "Unloading Equipment": "4 No. STS Cranes",
+        "Operating Hours": "24/7",
+        "Additional Information": "1. Potable water available.",
+        "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.200394877699381, -33.964092584299529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TextString": "Hayes Dock 1",
+        "Angle": 283.21591186500001,
+        "Berth Manager": "Hutchinson Ports Sydney",
+        "Commodities": "Containers",
+        "Rail Access": "On Dock Rail",
+        "Channel Maintained Depth": "15.6mCD",
+        "Dynamic Underkeel Clearance System in Use": "Yes",
+        "Static Vessel Draft in Channel @ LAT": "14.2m",
+        "UKC Requirements at Berth": "0.5m",
+        "Declared Depth at Berth": "Refer to PANSW promulgated depths for current declared depths.",
+        "Indicative Vessel Draft at Berth": "14.8m-15.1m",
+        "Max Vessel Length (LoA)": null,
+        "Berth Box Length": "650m",
+        "Berth Box Width": "50m",
+        "Wharf Level": "+4.0mCD",
+        "Air Draft Limit": "+51.9mCD",
+        "Mooring Equipment": "120t Bollards",
+        "Tidal Range (LAT - HAT)": "2m",
+        "Unloading Equipment": "4 No. STS Cranes",
+        "Operating Hours": "24/7",
+        "Additional Information": "1. Potable water available.",
+        "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.199717835114797, -33.961446002485474]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TextString": "Bulk Liquids Berth 2",
+        "Angle": 79.379150390600003,
+        "Berth Manager": "NSW Ports",
+        "Commodities": "Bulk liquids",
+        "Rail Access": "No",
+        "Channel Maintained Depth": "15.6mCD",
+        "Dynamic Underkeel Clearance System in Use": "Yes",
+        "Static Vessel Draft in Channel": "14.2m",
+        "UKC Requirements at Berth": "1.0m",
+        "Declared Depth at Berth": "Refer to PANSW promulgated depths for current declared depths",
+        "Indicative Vessel Draft at Berth": "18.0m",
+        "Max Vessel Length (LoA)": "270m",
+        "Berth Box Length": "n/a",
+        "Berth Box Width": "55m",
+        "Wharf Level": "+4.5mCD",
+        "Air Draft Limit": "+61.9mCD",
+        "Max Vessel Deadweight": "120,000t",
+        "Max Vessel Displacement & Berthing Velocity": "150,000t @ 0.10m/s",
+        "Mooring Equipment": "100t Bollards, 125t QRHs",
+        "Tidal Range (LAT - HAT)": "2m",
+        "Unloading Equipment": "2 No. Loading Arms, 8 No. Dock Lines",
+        "Operating Hours": "24/7",
+        "Additional Information": "1. Gangway can be prepared prior to berthing. 2. Potable water available. 3. Vessel bunkering by pipeline.",
+        "Disclaimer": "Information is a guide only & confirmation shall be sought from the berth manager & PANSW prior to vessel calling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.210477471535597, -33.976769704766419]
+      }
+    }
+  ]
+}
