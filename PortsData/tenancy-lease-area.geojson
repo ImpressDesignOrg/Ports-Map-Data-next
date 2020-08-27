@@ -1852,11 +1852,11 @@
       "type": "Feature",
       "properties": {
         "LEASE": "Swift Container Services Pty Ltd (t862)",
-        "Tenant Name": null,
-        "Phone": null,
-        "Website": null,
+        "Tenant Name": "Swift Container Services",
+        "Phone": "(02) 9642 1549",
+        "Website": "https://www.swifttrans.com.au/",
         "Email": null,
-        "Address": null,
+        "Address": "Gate E1, Mainline Road, Strathfield South NSW 2136",
         "Gates Included": null
       },
       "geometry": {
@@ -2590,10 +2590,10 @@
       "properties": {
         "LEASE": "Northside Fine Foods Pty Ltd (t827)",
         "Tenant Name": "Northside Fine Foods",
-        "Phone": null,
+        "Phone": "02 9905 9844",
         "Website": "http://northsidefinefoods.com.au/",
         "Email": null,
-        "Address": null,
+        "Address": "Building C1/91 Cosgrove Road, Strathfield South NSW 2136",
         "Gates Included": null
       },
       "geometry": {
@@ -8274,11 +8274,11 @@
       "type": "Feature",
       "properties": {
         "LEASE": "The Trust Company (Australia) Limited (t600)",
-        "Tenant Name": null,
+        "Tenant Name": "ACFS Port Logistics",
         "Phone": null,
         "Website": null,
         "Email": null,
-        "Address": null,
+        "Address": "Gate B53, 2 Simblist Road, Port Botany NSW 2036",
         "Gates Included": null
       },
       "geometry": {
@@ -8411,11 +8411,11 @@
       "type": "Feature",
       "properties": {
         "LEASE": "The Trust Company (Australia) Limited (t603)",
-        "Tenant Name": null,
+        "Tenant Name": "ACFS Port Logistics",
         "Phone": null,
         "Website": null,
         "Email": null,
-        "Address": null,
+        "Address": "Gate B53, 2 Simblist Road, Port Botany NSW 2036",
         "Gates Included": null
       },
       "geometry": {
@@ -9247,7 +9247,7 @@
         "Phone": "13 35 74",
         "Website": "www.originenergy.com.au",
         "Email": null,
-        "Address": null,
+        "Address": "47 Friendship Rd, Port Botany NSW 2036",
         "Gates Included": null
       },
       "geometry": {
@@ -9436,7 +9436,7 @@
         "Phone": "03 9604 2900",
         "Website": "https://quantem.com.au/",
         "Email": null,
-        "Address": null,
+        "Address": "45 Friendship Rd, Port Botany NSW 2036",
         "Gates Included": null
       },
       "geometry": {
@@ -10832,7 +10832,7 @@
         "Phone": "02 9695 0700",
         "Website": "www.smitlamnalco.com/",
         "Email": null,
-        "Address": null,
+        "Address": "Gate B51, Unit 5, 11–13 Friendship Road, Port Botany, NSW 2036 ",
         "Gates Included": null
       },
       "geometry": {
@@ -11289,7 +11289,7 @@
         "Phone": "02 4224 6444",
         "Website": "http://www.graincorp.com.au/contact-locations/port-kembla",
         "Email": null,
-        "Address": null,
+        "Address": "Tom Thumb Rd, Wollongong NSW 2500",
         "Gates Included": null
       },
       "geometry": {
@@ -12260,7 +12260,7 @@
         "Phone": "1800 800 789",
         "Website": "www.bluescopeillawarra.com.au/",
         "Email": null,
-        "Address": null,
+        "Address": "Five Islands Rd, Port Kembla NSW 2505",
         "Gates Included": null
       },
       "geometry": {
@@ -12284,11 +12284,11 @@
       "type": "Feature",
       "properties": {
         "LEASE": "BlueScope Steel Limited (t241)",
-        "Tenant Name": null,
-        "Phone": null,
-        "Website": null,
+        "Tenant Name": "Bluescope Steel",
+        "Phone": "1800 800 789",
+        "Website": "www.bluescopeillawarra.com.au/",
         "Email": null,
-        "Address": null,
+        "Address": "Five Islands Rd, Port Kembla NSW 2505",
         "Gates Included": null
       },
       "geometry": {
@@ -13243,9 +13243,9 @@
       "type": "Feature",
       "properties": {
         "LEASE": "Port Authority of New South Wales-PK (t272)",
-        "Tenant Name": "Port Authority of NSW",
+        "Tenant Name": "NSW Ports (Port Kembla office)",
         "Phone": "02 9296 4999",
-        "Website": "www.portauthoritynsw.com.au",
+        "Website": "https://www.nswports.com.au/port-kembla",
         "Email": null,
         "Address": null,
         "Gates Included": null
